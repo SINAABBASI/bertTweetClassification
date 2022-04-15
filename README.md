@@ -6,7 +6,7 @@ You can find out more details in our [paper](https://git.cs.usask.ca/sia942/disa
 
 ## Model structure
 
-![](https://git.cs.usask.ca/sia942/disastertweetsclassification/-/blob/main/latex/CMPT898-Final/model.png)
+![](latex/CMPT898-Final/model.png)
 
 ## Notebook
 
